@@ -1,0 +1,40 @@
+baseURL = 'https://schoolabusemissouri.com/'
+languageCode = 'en-us'
+title = 'Missouri School Abuse Attorney'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Missouri school abuse and Title IX legal information for survivors and families"
+  author = "Rights Watch Media Group"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  env = "production"
+  math = false
+
+[params.homeInfoParams]
+  Title = "Missouri School Abuse — Know Your Rights"
+  Content = "Public and private schools have legal obligations to protect students. When they fail, Missouri law provides remedies. Learn about Title IX liability, deliberate indifference, mandatory reporter failures, and your legal rights as a survivor or parent."
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "School Abuse"
+  url = "/categories/school-abuse/"
+  weight = 2
+
+[[menus.main]]
+  name = "Title IX"
+  url = "/categories/title-ix/"
+  weight = 3
+
+[[menus.main]]
+  name = "Legal Help"
+  url = "/categories/legal/"
+  weight = 4
