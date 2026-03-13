@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="container">
+    <a href="/" class="site-logo">
+      <span class="site-logo__mark" aria-hidden="true">S</span>
+      <span class="site-logo__name">SchoolAbuseMissouri.com</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.site-nav').classList.toggle('open')">&#9776;</button>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/"{{- if eq .RelPermalink "/" }} class="active"{{- end }}>Home</a>
+    <a href="/missouri-law/">{{- if eq .RelPermalink "/missouri-law/" }}class="active"{{- end }}Missouri Law</a>
+    <a href="/reporting/">{{- if eq .RelPermalink "/reporting/" }}class="active"{{- end }}How to Report</a>
+    <a href="/support/">{{- if eq .RelPermalink "/support/" }}class="active"{{- end }}Support Resources</a>
+    <a href="/types/">{{- if eq .RelPermalink "/types/" }}class="active"{{- end }}Types of Abuse</a>
+    <a href="/about/">{{- if eq .RelPermalink "/about/" }}class="active"{{- end }}About</a>
+    <a href="/resources/">{{- if eq .RelPermalink "/resources/" }}class="active"{{- end }}Resources</a>
+    <a href="/faq/">{{- if eq .RelPermalink "/faq/" }}class="active"{{- end }}FAQ</a>
+    </nav>
+    <div class="header-cta">
+      <a href="/about/">About This Site</a>
+    </div>
+  </div>
+</header>
