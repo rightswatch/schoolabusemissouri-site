@@ -1,35 +1,23 @@
 baseURL = 'https://schoolabusemissouri.com/'
 languageCode = 'en-us'
-title = 'Missouri School Abuse — Information for Survivors & Families'
+title = 'Missouri School Abuse Attorney'
 theme = 'PaperMod'
 
 [pagination]
   pagerSize = 10
 
-enableRobotsTXT = true
-enableEmoji = false
-
 [params]
-  env = "production"
-  title = "SchoolAbuseMissouri.com"
-  description = "Authoritative information on Missouri school abuse laws, mandatory reporting, survivor rights, and institutional accountability."
-  author = "Rights Watch Media Group LLC"
-  defaultTheme = "light"
-  disableThemeToggle = true
+  description = "Missouri school abuse and Title IX legal information for survivors and families"
+  author = "Rights Watch Media Group"
   ShowReadingTime = true
-  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
-  ShowToc = true
-  TocOpen = true
-  disableSpecial1stPost = true
-  disableScrollToTop = false
-  comments = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = true
-  tocopen = true
+  env = "production"
+  math = false
+
+[params.homeInfoParams]
+  Title = "Missouri School Abuse — Know Your Rights"
+  Content = "Public and private schools have legal obligations to protect students. When they fail, Missouri law provides remedies. Learn about Title IX liability, deliberate indifference, mandatory reporter failures, and your legal rights as a survivor or parent."
 
 [[menus.main]]
   name = "Home"
@@ -37,55 +25,16 @@ enableEmoji = false
   weight = 1
 
 [[menus.main]]
-  name = "Missouri Law"
-  url = "/missouri-law/"
-  weight = 20
+  name = "School Abuse"
+  url = "/categories/school-abuse/"
+  weight = 2
 
 [[menus.main]]
-  name = "How to Report"
-  url = "/reporting/"
-  weight = 30
+  name = "Title IX"
+  url = "/categories/title-ix/"
+  weight = 3
 
 [[menus.main]]
-  name = "Support Resources"
-  url = "/support/"
-  weight = 35
-
-[[menus.main]]
-  name = "Types of Abuse"
-  url = "/types/"
-  weight = 40
-
-[[menus.main]]
-  name = "About"
-  url = "/about/"
-  weight = 90
-
-[[menus.main]]
-  name = "Resources"
-  url = "/resources/"
-  weight = 95
-
-[[menus.main]]
-  name = "FAQ"
-  url = "/faq/"
-  weight = 97
-
-[[menus.main]]
-  name = "Disclaimer"
-  url = "/legal/disclaimer/"
-  weight = 99
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    style = "github"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+  name = "Legal Help"
+  url = "/categories/legal/"
+  weight = 4
