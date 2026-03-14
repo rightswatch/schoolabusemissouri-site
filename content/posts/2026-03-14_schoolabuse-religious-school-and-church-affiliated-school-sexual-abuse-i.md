@@ -1,14 +1,14 @@
 ---
 title: "religious school and church-affiliated school sexual abuse in Missouri — accountability and civil claims for survivors"
-date: 2026-03-12
+date: 2026-03-14
 draft: false
-slug: "titleix-religious-school-and-church-affiliated-school-sexual-abuse-i"
-type: "titleix"
+slug: "schoolabuse-religious-school-and-church-affiliated-school-sexual-abuse-i"
+type: "schoolabuse"
 topic: "religious school and church-affiliated school sexual abuse in Missouri — accountability and civil claims for survivors"
 keywords:
-  - "Title IX attorney Missouri"
-  - "school sexual abuse lawyer Missouri"
   - "school abuse attorney Missouri"
+  - "school sexual abuse lawyer Missouri"
+  - "Title IX attorney Missouri"
   - "religious school and church-affiliated school sexual abuse in missouri — accountability and civil claims for survivors"
 description: ""
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
@@ -16,7 +16,9 @@ generated_by: "MesoWatch content_engine.py"
 passes: 8
 ---
 
-It looks like no article text came through with your submission — only the instruction framework arrived. Please paste the full article text and I will run the complete editorial and legal accuracy pass immediately.
+I notice that your message contains a template placeholder `{content}` that was never filled in with the actual article text.
+
+Please paste the article you'd like me to review and I'll return the polished, legally accurate final version.
 
 ---
 
