@@ -12,7 +12,7 @@ keywords:
   - "what is deliberate indifference and when is a missouri school liable for student sexual abuse"
 description: ""
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 

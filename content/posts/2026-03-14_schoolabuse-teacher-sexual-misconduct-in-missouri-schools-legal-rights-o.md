@@ -12,7 +12,7 @@ keywords:
   - "teacher sexual abuse and misconduct in missouri k-12 schools — title ix claims and school liability"
 description: "Missouri survivors of teacher or coach sexual abuse may have Title IX claims against their school district. Learn about Gebser, OCR deadlines, and Mo. Rev. Stat. § 537.046."
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 

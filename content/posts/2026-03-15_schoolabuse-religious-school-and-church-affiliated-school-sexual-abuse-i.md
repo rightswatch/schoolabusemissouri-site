@@ -12,7 +12,7 @@ keywords:
   - "religious school and church-affiliated school sexual abuse in missouri — accountability and civil claims for survivors"
 description: ""
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 

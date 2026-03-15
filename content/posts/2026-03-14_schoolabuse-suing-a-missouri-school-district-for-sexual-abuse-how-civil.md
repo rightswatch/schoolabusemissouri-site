@@ -12,7 +12,7 @@ keywords:
   - "suing a missouri school district for sexual abuse — how civil lawsuits work and what damages you can recover"
 description: "Missouri school abuse lawyers explain Title IX lawsuits, the deliberate indifference standard, Mo. Rev. Stat. § 537.046, and key filing deadlines for survivors."
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 

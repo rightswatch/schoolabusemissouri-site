@@ -12,7 +12,7 @@ keywords:
   - "school sexual abuse in missouri — understanding your legal rights and options for survivors and families"
 description: "Missouri school sexual abuse lawyers explain Title IX liability, deliberate indifference, mandatory reporting failures, and Mo. Rev. Stat. § 537.046's no-SOL rule for childhood abuse claims."
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 

@@ -12,7 +12,7 @@ keywords:
   - "private school sexual abuse lawsuits in missouri — can survivors sue private and parochial schools"
 description: "Missouri survivors of private and parochial school sexual abuse have no civil deadline under Mo. Rev. Stat. § 537.046. Title IX and OCR deadlines apply separately."
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 

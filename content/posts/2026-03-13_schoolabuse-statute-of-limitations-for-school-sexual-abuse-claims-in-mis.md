@@ -12,7 +12,7 @@ keywords:
   - "statute of limitations for school sexual abuse claims in missouri — how long do survivors have to sue"
 description: "Missouri school sexual abuse claims explained — filing deadlines under Mo. Rev. Stat. § 537.046, Title IX lawsuit deadlines, and OCR complaint rules. Consult a Title IX attorney Missouri."
 copyright: "© 2026 Rights Watch Media Group LLC. All rights reserved."
-generated_by: "MesoWatch content_engine.py"
+generated_by: "Argus content_engine.py"
 passes: 8
 ---
 
